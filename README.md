@@ -1,6 +1,5 @@
 # java_assignment
-
-# # Project Summary:
+# Project Summary:
 detail in java_assignment.txt
 
 Pre requisites:
